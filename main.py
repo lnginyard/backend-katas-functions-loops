@@ -3,13 +3,13 @@
 except for '+' and '-'.
 """
 
-__author__ = "???"
+__author__ = "Lorenzo Ginyard"
 
 
 def add(x, y):
     """Add two integers."""
-    # your code here
-    return
+    sum = x + y
+    return sum
 
 
 def multiply(x, y):
